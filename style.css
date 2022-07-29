@@ -8,6 +8,23 @@
 .half-width{
     width: 50%;
 }
-.reg{
-    border-color: none;
+
+.star{
+    margin-left: 350px;
+    
+    
 }
+.fa-star.filled{
+    color: orange;
+    
+}
+.fa-star.emty{
+    color: yellow;
+}
+
+
+    
+
+
+    
+    
