@@ -14,6 +14,11 @@
     
     
 }
+.link{
+   
+    text-decoration: none;
+    
+}
 .fa-star.filled{
     color: orange;
     
@@ -21,6 +26,7 @@
 .fa-star.emty{
     color: yellow;
 }
+
 
 
     
