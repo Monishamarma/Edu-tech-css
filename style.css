@@ -26,8 +26,13 @@
 .fa-star.emty{
     color: yellow;
 }
+@media only screen and (max-width:680px) {
+    .course{
+        display:inline-flex;
+       
+    }
 
-
+}
 
     
 
