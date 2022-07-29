@@ -10,7 +10,7 @@
 }
 
 .star{
-    margin-left: 150px;
+    margin-left: 100px;
     
     
 }
@@ -27,10 +27,16 @@
     color: yellow;
 }
 @media only screen and (max-width:680px) {
-    .course{
-        display:inline-flex;
-       
-    }
+   .visibility{
+    visibility: hidden;
+   }
+   
+
+}
+@media only screen and (min-width:688px) and (max-width:992px){
+    .visibility {
+            visibility: hidden;
+        }
 
 }
 
