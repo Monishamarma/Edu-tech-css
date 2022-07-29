@@ -1,0 +1,13 @@
+.back-color img{
+    filter: brightness(50%);
+}
+.half-width img{
+    width:100%
+
+}
+.half-width{
+    width: 50%;
+}
+.reg{
+    border-color: none;
+}
